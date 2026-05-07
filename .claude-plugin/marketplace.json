@@ -1,0 +1,15 @@
+{
+  "name": "cti-financial-agents",
+  "owner": {
+    "name": "Robert Upchurch",
+    "email": "ceo@cti-usa.com"
+  },
+  "description": "Five investment-grade finance skills (Pitch Builder, Model Builder, Earnings Reviewer, KYC Screener, Valuation Reviewer).",
+  "plugins": [
+    {
+      "name": "cti-financial-agents",
+      "source": "./",
+      "description": "Pitch Builder, Model Builder, Earnings Reviewer, KYC Screener, and Valuation Reviewer skills."
+    }
+  ]
+}
