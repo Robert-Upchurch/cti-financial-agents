@@ -1,0 +1,11 @@
+{
+  "name": "cti-financial-agents",
+  "version": "1.0.0",
+  "description": "Five investment-grade finance skills (Pitch Builder, Model Builder, Earnings Reviewer, KYC Screener, Valuation Reviewer) that complement Anthropic's Financial Agent Templates and the existing CTI finance plugin.",
+  "author": {
+    "name": "Robert Upchurch",
+    "email": "ceo@cti-usa.com"
+  },
+  "homepage": "https://github.com/Robert-Upchurch/cti-financial-agents",
+  "keywords": ["finance", "investment-banking", "valuation", "kyc", "earnings", "pitchbook"]
+}

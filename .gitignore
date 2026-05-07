@@ -1,0 +1,23 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local secrets / drafts
+.env
+.env.local
+*.local.md
+SCRATCH.md
+NOTES.md
+
+# Build artifacts
+node_modules/
+dist/
+build/
